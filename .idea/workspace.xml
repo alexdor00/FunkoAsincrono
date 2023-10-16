@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a50ef1a-f2b5-49cc-8e54-ec12391af4a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/alexandru/hikari/HikariCPConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/alexandru/models/Funko.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/alexandru/models/IdGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/alexandru/repositories/funko/FunkoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/alexandru/service/funko/FunkoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/funkos.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/alexandru/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +80,7 @@
       <workItem from="1697446100567" duration="524000" />
       <workItem from="1697446746839" duration="2016000" />
       <workItem from="1697452006500" duration="91000" />
-      <workItem from="1697452219389" duration="3978000" />
+      <workItem from="1697452219389" duration="5437000" />
     </task>
     <servers />
   </component>
